@@ -1,0 +1,9 @@
+path: /home/pcl-02/yolov5/datasets/sonar_rov  # dataset root dir
+train: 
+  - images/train
+val: 
+  - images/val
+
+# Classes
+names:
+  0: rov
